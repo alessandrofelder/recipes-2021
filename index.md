@@ -2,6 +2,7 @@
 
 Set of recipes
 
-- Pizzas (TODO)
+- Pizzas
+   - [base](pizzas/base.md)
 - Sauces (TODO)
 - Spreads (TODO)
